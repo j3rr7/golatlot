@@ -392,6 +392,13 @@
       "sourceType": "github",
       "skillPath": "skills/tauri-window/SKILL.md",
       "computedHash": "0ee6b2891a4417cd4421c8ac0f7747761bd74be066fef7cf88188ed1b4a90596"
+    },
+    "wick-charts": {
+      "source": "mo4islona/wick-charts",
+      "commit": "cdbda604b3f3e5257704f69e98bb1571508553d8",
+      "sourceType": "github",
+      "skillPath": ".agents/skills/wick-charts/SKILL.md",
+      "computedHash": "87294452ea1fd6f4985ab03e265892b40f20a6d8af3a345349b703ef56dd781d"
     }
   }
 }
